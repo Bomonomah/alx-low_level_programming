@@ -3,7 +3,7 @@
 /*
  * main - print a line of codes using puts
  * 
- * Return: always 0
+ * Return: 0
 */
 
 int main(void)
